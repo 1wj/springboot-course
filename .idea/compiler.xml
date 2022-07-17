@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch41-thymeleaf-2" />
+        <module name="ch43-thymeleaf-3" />
+        <module name="ch48-thymeleaf" />
+        <module name="ch33-filter" />
+        <module name="ch01" />
+        <module name="ch02" />
+        <module name="ch04-springboot-properties-yml-yaml" />
+        <module name="ch10-jsp" />
+        <module name="ch18-restful" />
+        <module name="ch24-ssm-provider" />
+        <module name="ch09-custom-configuration" />
+        <module name="springboot" />
+        <module name="ch12-mybatis-2" />
+        <module name="ch52-springboot-provider" />
+        <module name="ch51-springboot-interface" />
+        <module name="ch17-springmvc" />
+        <module name="ch21-springboot-dubbo-provider" />
+        <module name="ch23-ssm-interface" />
+        <module name="ch30-servlet-1" />
+        <module name="ch34-filter-2" />
+        <module name="ch39-springboot-logback" />
+        <module name="ch37-war" />
+        <module name="ch15-mybatis-3" />
+        <module name="ch44-thymeleaf-if" />
+        <module name="ch16-transaction" />
+        <module name="ch26-java-1" />
+        <module name="ch27-java-2" />
+        <module name="ch35-character-encoding-2" />
+        <module name="ch08-custom-configuration" />
+        <module name="ch19-redis" />
+        <module name="ch22-springboot-dubbo-consumer" />
+        <module name="ch32-servlet-2" />
+        <module name="ch46-thymeleaf-literal" />
+        <module name="ch30-interceptor" />
+        <module name="ch45-thymeleaf-inline" />
+        <module name="ch25-ssm-consume" />
+        <module name="ch28-close-logo" />
+        <module name="ch53-springboot-consume" />
+        <module name="ch47-thymeleaf-operator" />
+        <module name="ch12-mybatis" />
+        <module name="ch35-character-encoding" />
+        <module name="ch40-thymelead" />
+        <module name="ch20-springboot-dubbo-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cg23-ssm-interface" target="1.8" />
+      <module name="ch001" target="1.8" />
+      <module name="ch01" target="1.8" />
+      <module name="ch02" target="1.8" />
+      <module name="ch03-springboot-context-path" target="1.8" />
+      <module name="ch04-springboot-properties-yml-yaml" target="1.8" />
+      <module name="ch06-springboot-multi-environment-properties" target="1.8" />
+      <module name="ch08-custom-configuration" target="1.8" />
+      <module name="ch09-custom-configuration" target="1.8" />
+      <module name="ch10-jsp" target="1.8" />
+      <module name="ch12-mybatis" target="1.8" />
+      <module name="ch12-mybatis-2" target="1.8" />
+      <module name="ch15-mybatis-3" target="1.8" />
+      <module name="ch16-transaction" target="1.8" />
+      <module name="ch17-springmvc" target="1.8" />
+      <module name="ch18-restful" target="1.8" />
+      <module name="ch19-redis" target="1.8" />
+      <module name="ch20-springboot-dubbo-interface" target="1.8" />
+      <module name="ch21-springboot-dubbo-provider" target="1.8" />
+      <module name="ch22-springboot-dubbo-consumer" target="1.8" />
+      <module name="ch23-ssm-interface" target="1.8" />
+      <module name="ch24-ssm-provider" target="1.8" />
+      <module name="ch25-ssm-consume" target="1.8" />
+      <module name="ch26-java-1" target="1.8" />
+      <module name="ch27-java-2" target="1.8" />
+      <module name="ch28-close-logo" target="1.8" />
+      <module name="ch30-interceptor" target="1.8" />
+      <module name="ch30-servlet-1" target="1.8" />
+      <module name="ch32-servlet-2" target="1.8" />
+      <module name="ch33-filter" target="1.8" />
+      <module name="ch34-filter-2" target="1.8" />
+      <module name="ch35-character-encoding" target="1.8" />
+      <module name="ch35-character-encoding-2" target="1.8" />
+      <module name="ch37-war" target="1.8" />
+      <module name="ch39-springboot-logback" target="1.8" />
+      <module name="ch40-thymelead" target="1.8" />
+      <module name="ch41-thymeleaf-2" target="1.8" />
+      <module name="ch43-thymeleaf-3" target="1.8" />
+      <module name="ch44-thymeleaf-if" target="1.8" />
+      <module name="ch45-thymeleaf-inline" target="1.8" />
+      <module name="ch46-thymeleaf-literal" target="1.8" />
+      <module name="ch47-thymeleaf-operator" target="1.8" />
+      <module name="ch48-thymeleaf" target="1.8" />
+      <module name="ch50-springboot-parent" target="1.8" />
+      <module name="ch51-springboot-interface" target="1.8" />
+      <module name="ch52-springboot-provider" target="1.8" />
+      <module name="ch53-springboot-consume" target="1.8" />
+      <module name="cho3-springboot-context-path" target="1.8" />
+      <module name="springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch001" options="-parameters" />
+      <module name="ch01" options="-parameters" />
+      <module name="ch02" options="-parameters" />
+      <module name="ch03-springboot-context-path" options="-parameters" />
+      <module name="ch04-springboot-properties-yml-yaml" options="-parameters" />
+      <module name="ch06-springboot-multi-environment-properties" options="-parameters" />
+      <module name="ch08-custom-configuration" options="-parameters" />
+      <module name="ch09-custom-configuration" options="-parameters" />
+      <module name="ch10-jsp" options="-parameters" />
+      <module name="ch12-mybatis" options="-parameters" />
+      <module name="ch12-mybatis-2" options="-parameters" />
+      <module name="ch15-mybatis-3" options="-parameters" />
+      <module name="ch16-transaction" options="-parameters" />
+      <module name="ch17-springmvc" options="-parameters" />
+      <module name="ch18-restful" options="-parameters" />
+      <module name="ch19-redis" options="-parameters" />
+      <module name="ch21-springboot-dubbo-provider" options="-parameters" />
+      <module name="ch22-springboot-dubbo-consumer" options="-parameters" />
+      <module name="ch24-ssm-provider" options="-parameters" />
+      <module name="ch25-ssm-consume" options="-parameters" />
+      <module name="ch26-java-1" options="-parameters" />
+      <module name="ch27-java-2" options="-parameters" />
+      <module name="ch28-close-logo" options="-parameters" />
+      <module name="ch30-interceptor" options="-parameters" />
+      <module name="ch30-servlet-1" options="-parameters" />
+      <module name="ch32-servlet-2" options="-parameters" />
+      <module name="ch33-filter" options="-parameters" />
+      <module name="ch34-filter-2" options="-parameters" />
+      <module name="ch35-character-encoding" options="-parameters" />
+      <module name="ch35-character-encoding-2" options="-parameters" />
+      <module name="ch37-war" options="-parameters" />
+      <module name="ch39-springboot-logback" options="-parameters" />
+      <module name="ch40-thymelead" options="-parameters" />
+      <module name="ch41-thymeleaf-2" options="-parameters" />
+      <module name="ch43-thymeleaf-3" options="-parameters" />
+      <module name="ch44-thymeleaf-if" options="-parameters" />
+      <module name="ch45-thymeleaf-inline" options="-parameters" />
+      <module name="ch46-thymeleaf-literal" options="-parameters" />
+      <module name="ch47-thymeleaf-operator" options="-parameters" />
+      <module name="ch48-thymeleaf" options="-parameters" />
+      <module name="ch51-springboot-interface" options="-parameters" />
+      <module name="ch52-springboot-provider" options="-parameters" />
+      <module name="ch53-springboot-consume" options="-parameters" />
+      <module name="cho3-springboot-context-path" options="-parameters" />
+      <module name="springboot" options="-parameters" />
+    </option>
+  </component>
+</project>

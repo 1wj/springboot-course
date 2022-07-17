@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>从session中获取值</title>
+</head>
+<body>
+        三种都行：
+        <span th:text="${session.data}">  </span><br>
+    <span th:text="${#session.getAttribute('data')}">  </span><br>
+    <span th:text="${#httpSession.getAttribute('data')}">  </span><br>
+
+<script type="text/javascript" th:inline="javascript">
+    //获取协议名称
+    var scheme= [[${#request.getScheme()}]];
+
+    //获取服务器名称
+    var serverName=[[${#request.getServerName()}]];
+
+    //获得服务器端口号
+    var serverPort=[[${#request.getServerPort()}]];
+
+    //获取上下文根
+    var contextPath=[[${#request.getContextPath()}]];
+
+    //
+    var url=[[${#request.requestURL}]];
+
+    var allPath=scheme+"://"+serverName+":"+serverPort+contextPath;
+    alert(allPath);
+    alert(url);
+</script>
+
+</body>
+
+</html>

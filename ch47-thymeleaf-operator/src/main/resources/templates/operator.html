@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>运算符</title>
+</head>
+<body>
+    <!--
+         三元运算：表达式?”正确结果”:”错误结果”
+         算术运算：+ , - , * , / , %
+         关系比较:：> , < , >= , <= ( gt , lt , ge , le )
+         相等判断：== , != ( eq , ne )  1
+    -->
+    <h1>三元运算符</h1>
+        <div th:text="${sex eq 1?'男':'女'}">
+
+        </div>
+    <h1>算术运算符</h1>
+    20+5=<span th:text="${20+5}"></span>
+
+    <h1>关系运算符</h1>
+    5>2为 <span th:if="${sex gt 2}">真</span><br>
+    5>2为 <span th:if="5 gt 2">真</span>
+
+</body>
+</html>

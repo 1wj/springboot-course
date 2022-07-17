@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01/ch01.iml" filepath="$PROJECT_DIR$/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02/ch02.iml" filepath="$PROJECT_DIR$/ch02/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-springboot-properties-yml-yaml/ch04-springboot-properties-yml-yaml.iml" filepath="$PROJECT_DIR$/ch04-springboot-properties-yml-yaml/ch04-springboot-properties-yml-yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-custom-configuration/ch08-custom-configuration.iml" filepath="$PROJECT_DIR$/ch08-custom-configuration/ch08-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-custom-configuration/ch09-custom-configuration.iml" filepath="$PROJECT_DIR$/ch09-custom-configuration/ch09-custom-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-jsp/ch10-jsp.iml" filepath="$PROJECT_DIR$/ch10-jsp/ch10-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12-mybatis/ch12-mybatis.iml" filepath="$PROJECT_DIR$/ch12-mybatis/ch12-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12-mybatis-2/ch12-mybatis-2.iml" filepath="$PROJECT_DIR$/ch12-mybatis-2/ch12-mybatis-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15-mybatis-3/ch15-mybatis-3.iml" filepath="$PROJECT_DIR$/ch15-mybatis-3/ch15-mybatis-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16-transaction/ch16-transaction.iml" filepath="$PROJECT_DIR$/ch16-transaction/ch16-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17-springmvc/ch17-springmvc.iml" filepath="$PROJECT_DIR$/ch17-springmvc/ch17-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18-restful/ch18-restful.iml" filepath="$PROJECT_DIR$/ch18-restful/ch18-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19-redis/ch19-redis.iml" filepath="$PROJECT_DIR$/ch19-redis/ch19-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch20-springboot-dubbo-interface/ch20-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/ch20-springboot-dubbo-interface/ch20-springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21-springboot-dubbo-provider/ch21-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/ch21-springboot-dubbo-provider/ch21-springboot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch22-springboot-dubbo-consumer/ch22-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/ch22-springboot-dubbo-consumer/ch22-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch23-ssm-interface/ch23-ssm-interface.iml" filepath="$PROJECT_DIR$/ch23-ssm-interface/ch23-ssm-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch24-ssm-provider/ch24-ssm-provider.iml" filepath="$PROJECT_DIR$/ch24-ssm-provider/ch24-ssm-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch25-ssm-consume/ch25-ssm-consume.iml" filepath="$PROJECT_DIR$/ch25-ssm-consume/ch25-ssm-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch26-java-1/ch26-java-1.iml" filepath="$PROJECT_DIR$/ch26-java-1/ch26-java-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch27-java-2/ch27-java-2.iml" filepath="$PROJECT_DIR$/ch27-java-2/ch27-java-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch28-close-logo/ch28-close-logo.iml" filepath="$PROJECT_DIR$/ch28-close-logo/ch28-close-logo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch30-interceptor/ch30-interceptor.iml" filepath="$PROJECT_DIR$/ch30-interceptor/ch30-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch30-servlet-1/ch30-servlet-1.iml" filepath="$PROJECT_DIR$/ch30-servlet-1/ch30-servlet-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch32-servlet-2/ch32-servlet-2.iml" filepath="$PROJECT_DIR$/ch32-servlet-2/ch32-servlet-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch33-filter/ch33-filter.iml" filepath="$PROJECT_DIR$/ch33-filter/ch33-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch34-filter-2/ch34-filter-2.iml" filepath="$PROJECT_DIR$/ch34-filter-2/ch34-filter-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch35-character-encoding/ch35-character-encoding.iml" filepath="$PROJECT_DIR$/ch35-character-encoding/ch35-character-encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch35-character-encoding-2/ch35-character-encoding-2.iml" filepath="$PROJECT_DIR$/ch35-character-encoding-2/ch35-character-encoding-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch37-war/ch37-war.iml" filepath="$PROJECT_DIR$/ch37-war/ch37-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch39-springboot-logback/ch39-springboot-logback.iml" filepath="$PROJECT_DIR$/ch39-springboot-logback/ch39-springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch40-thymelead/ch40-thymelead.iml" filepath="$PROJECT_DIR$/ch40-thymelead/ch40-thymelead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch41-thymeleaf-2/ch41-thymeleaf-2.iml" filepath="$PROJECT_DIR$/ch41-thymeleaf-2/ch41-thymeleaf-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch43-thymeleaf-3/ch43-thymeleaf-3.iml" filepath="$PROJECT_DIR$/ch43-thymeleaf-3/ch43-thymeleaf-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch44-thymeleaf-if/ch44-thymeleaf-if.iml" filepath="$PROJECT_DIR$/ch44-thymeleaf-if/ch44-thymeleaf-if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch45-thymeleaf-inline/ch45-thymeleaf-inline.iml" filepath="$PROJECT_DIR$/ch45-thymeleaf-inline/ch45-thymeleaf-inline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch46-thymeleaf-literal/ch46-thymeleaf-literal.iml" filepath="$PROJECT_DIR$/ch46-thymeleaf-literal/ch46-thymeleaf-literal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch47-thymeleaf-operator/ch47-thymeleaf-operator.iml" filepath="$PROJECT_DIR$/ch47-thymeleaf-operator/ch47-thymeleaf-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch48-thymeleaf/ch48-thymeleaf.iml" filepath="$PROJECT_DIR$/ch48-thymeleaf/ch48-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch50-springboot-parent/ch50-springboot-parent.iml" filepath="$PROJECT_DIR$/ch50-springboot-parent/ch50-springboot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch51-springboot-interface/ch51-springboot-interface.iml" filepath="$PROJECT_DIR$/ch51-springboot-interface/ch51-springboot-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch52-springboot-provider/ch52-springboot-provider.iml" filepath="$PROJECT_DIR$/ch52-springboot-provider/ch52-springboot-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch53-springboot-consume/ch53-springboot-consume.iml" filepath="$PROJECT_DIR$/ch53-springboot-consume/ch53-springboot-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch42-thymeleaf-expression/springboot.iml" filepath="$PROJECT_DIR$/ch42-thymeleaf-expression/springboot.iml" />
+    </modules>
+  </component>
+</project>

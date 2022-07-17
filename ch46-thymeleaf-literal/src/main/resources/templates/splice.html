@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>字符串拼接</title>
+</head>
+<body>
+  共<span th:text="${totalRows}"></span>页  <br>
+    <span th:text=" '共 '+${totalPage}+ ' 页, 当前页' +${currentPage}"></span><!--不用-->
+
+  <h1>常用的方式来拼接：|要拼接的内容|</h1>
+  <span th:text="|共 ${totalPage} 页,当前 ${currentPage} 页|"></span><!--不用-->
+
+</body>
+</html>

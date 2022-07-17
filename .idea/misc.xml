@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch20-springboot-dubbo-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/ch37-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02/pom.xml" />
+        <option value="$PROJECT_DIR$/cho3-springboot-context-path/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-springboot-properties-yml-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/cho6-springboot-multi-environment-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08-custom-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09-custom-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/ch10-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12-mybatis-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15-mybatis-3/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/ch19-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/ch20-springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/ch21-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ch22-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ch24-ssm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ch23-ssm-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/ch25-ssm-consume/pom.xml" />
+        <option value="$PROJECT_DIR$/ch26-java-1/pom.xml" />
+        <option value="$PROJECT_DIR$/ch27-java-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch28-close-logo/pom.xml" />
+        <option value="$PROJECT_DIR$/ch30-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/ch30-servlet-1/pom.xml" />
+        <option value="$PROJECT_DIR$/ch32-servlet-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch33-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/ch34-filter-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch35-character-encoding/pom.xml" />
+        <option value="$PROJECT_DIR$/ch35-character-encoding-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch37-war/pom.xml" />
+        <option value="$PROJECT_DIR$/ch39-springboot-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/ch40-thymelead/pom.xml" />
+        <option value="$PROJECT_DIR$/ch41-thymeleaf-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch42-thymeleaf-expression/pom.xml" />
+        <option value="$PROJECT_DIR$/ch43-thymeleaf-3/pom.xml" />
+        <option value="$PROJECT_DIR$/ch44-thymeleaf-if/pom.xml" />
+        <option value="$PROJECT_DIR$/ch45-thymeleaf-inline/pom.xml" />
+        <option value="$PROJECT_DIR$/ch46-thymeleaf-literal/pom.xml" />
+        <option value="$PROJECT_DIR$/ch47-thymeleaf-operator/pom.xml" />
+        <option value="$PROJECT_DIR$/ch48-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/ch50-springboot-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/ch52-springboot-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ch53-springboot-consume/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

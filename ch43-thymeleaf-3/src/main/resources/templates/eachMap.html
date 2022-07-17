@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>循环遍历map集合</title>
+</head>
+<body>
+    <div th:each="user,userMapsStat:${userMaps}">
+        <span th:text="${userMapsStat.count}"></span><br>
+        <span th:text="${userMapsStat.index}"></span><br>
+        <span th:text="${user.key}"></span><br>
+        <span th:text="${user.value}"></span><br>
+        <span th:text="${user.value.id}"></span><br>
+        <span th:text="${user.value.name}"></span><br>
+        <span th:text="${user.value.phone}"></span><br>
+        <span th:text="${user.value.address}"></span><br>
+        <br>
+        <br>
+        <br>
+        <hr>
+    </div>
+</body>
+</html>

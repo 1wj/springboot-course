@@ -1,0 +1,27 @@
+<!DOCTYPE html >
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>属性</h1>
+    <form method="get" action="http://localhost:8080/test1">
+        id:<input type="text" name="id"><br>
+        xingming:<input type="text" name="username"><br>
+        nianl:<input type="text" name="age"><br>
+        <input type="submit" value="按钮">
+    </form>
+
+<hr>
+    <!--如果打算从后台取值，可以使用th:，不然可以不需要-->
+    <form method="get" th:action="@{/test1}">
+        id:<input type="text" th:name="id"><br>
+        xingming:<input type="text" th:name="username"><br>
+        nianl:<input type="text" th:name="age" th:id="999"> <br>
+        <input type="submit" value="按钮">
+    </form>
+
+
+</body>
+</html>

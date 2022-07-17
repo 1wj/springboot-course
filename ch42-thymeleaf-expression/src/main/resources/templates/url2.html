@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--传统js插入方法-->
+ <!-- <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>-->
+
+    <!--thymeleaf的方法-->
+    <script type="text/javascript" th:src="@{/js/jquery-1.11.3.min.js}"></script>
+  <script type="text/javascript">
+    $(function () {
+      alert("-----");
+    });
+  </script>
+</head>
+<body>
+        <input type="text" name="username" value="999">
+        <img th:src="@{/img/001.png}"><!--它默认会去到static文件夹，我们只需要写后面的文件就行了-->
+</body>
+</html>
